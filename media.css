@@ -1,0 +1,8 @@
+.container-fluid a{
+    text-decoration: none;
+    padding: 10px;
+}
+.main-content{
+    margin-top: 200px;
+    font-size: 60px;
+}
